@@ -2,11 +2,6 @@
 
 最終更新: 2026年6月9日
 
-このファイルは [LegalContent.swift](../CircleApp/Service/LegalContent.swift) と同期されています。
-**iOS アプリ内の表示と一致させる必要があるため、修正時は必ず両方を更新してください。**
-
-GitHub Pages 配信先: <https://borspo.github.io/terms_of_service/>
-
 ---
 
 ## 第1条 (適用)
